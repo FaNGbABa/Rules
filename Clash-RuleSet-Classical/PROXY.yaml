@@ -396,7 +396,25 @@ payload:
   ## > Csis
   - DOMAIN-SUFFIX,csis.org
   - DOMAIN-SUFFIX,csis-prod.s3.amazonaws.com
-  ## > DELL
+  ## > Dailymail
+  - DOMAIN-SUFFIX,anm.co.uk
+  - DOMAIN-SUFFIX,dailym.ai
+  - DOMAIN-SUFFIX,dailymail.co.uk
+  - DOMAIN-SUFFIX,dailymail.com
+  - DOMAIN-SUFFIX,dailymail.com.au
+  - DOMAIN-SUFFIX,dailymail.dk
+  - DOMAIN-SUFFIX,dailymailonline.com
+  - DOMAIN-SUFFIX,dmgmediaprivacy.co.uk
+  - DOMAIN-SUFFIX,mailhealth.com
+  - DOMAIN-SUFFIX,mailonline.co.uk
+  - DOMAIN-SUFFIX,mailonline.com
+  - DOMAIN-SUFFIX,mailonsunday.co.uk
+  - DOMAIN-SUFFIX,mailonsunday.ie
+  - DOMAIN-SUFFIX,metro.co.uk
+  - DOMAIN-SUFFIX,mol.im
+  - DOMAIN-SUFFIX,thisismoney.co.uk
+  - DOMAIN-SUFFIX,thismon.ee
+  ## > Dell
   - DOMAIN-SUFFIX,dell-alw.com
   - DOMAIN-SUFFIX,dell-brand.com
   - DOMAIN-SUFFIX,dell.co.in
@@ -1435,22 +1453,26 @@ payload:
   - DOMAIN-SUFFIX,vodafone.com
   ## > Who
   - DOMAIN-SUFFIX,who.int
-  ## > Wiki
-  - DOMAIN-SUFFIX,wikipedia.org
-  - DOMAIN-SUFFIX,wikipedia.com
-  - DOMAIN-SUFFIX,wikimedia.org
-  - DOMAIN-SUFFIX,wikinews.org
-  - DOMAIN-SUFFIX,wiktionary.org
+  ## > Wikimedia
+  - DOMAIN-SUFFIX,mediawiki.org
+  - DOMAIN-SUFFIX,toolforge.org
+  - DOMAIN-SUFFIX,w.wiki
   - DOMAIN-SUFFIX,wikibooks.org
+  - DOMAIN-SUFFIX,wikidata.org
+  - DOMAIN-SUFFIX,wikimedia.org
+  - DOMAIN-SUFFIX,wikimediacloud.org
+  - DOMAIN-SUFFIX,wikimediafoundation.org
+  - DOMAIN-SUFFIX,wikinews.org
+  - DOMAIN-SUFFIX,wikipedia.com
+  - DOMAIN-SUFFIX,wikipedia.org
   - DOMAIN-SUFFIX,wikiquote.org
   - DOMAIN-SUFFIX,wikisource.org
   - DOMAIN-SUFFIX,wikiversity.org
   - DOMAIN-SUFFIX,wikivoyage.org
-  - DOMAIN-SUFFIX,mediawiki.org
-  - DOMAIN-SUFFIX,wikidata.org
-  - DOMAIN-SUFFIX,wikimediafoundation.org
+  - DOMAIN-SUFFIX,wiktionary.org
+  - DOMAIN-SUFFIX,wmcloud.org
+  - DOMAIN-SUFFIX,wmflabs.org
   - DOMAIN-SUFFIX,wmfusercontent.org
-  - DOMAIN-SUFFIX,w.wiki
   ## > Windy
   - DOMAIN-SUFFIX,windy.com
   ## > Wordpress
