@@ -1658,6 +1658,14 @@ DOMAIN-SUFFIX,taikangonline.cn
 ## > TapTap
 DOMAIN-SUFFIX,tapimg.com
 DOMAIN-SUFFIX,taptap.com
+## >> DNSPod
+DOMAIN-SUFFIX,dns.pub
+DOMAIN-SUFFIX,dnsapi.cn
+DOMAIN-SUFFIX,dnspod.cn
+DOMAIN-SUFFIX,dnspod.com
+DOMAIN-SUFFIX,dnspod.com.cn
+DOMAIN-SUFFIX,dnspod.org
+DOMAIN-SUFFIX,doh.pub
 ## > 腾讯
 DOMAIN-SUFFIX,apcdns.net
 DOMAIN-SUFFIX,foxmail.com

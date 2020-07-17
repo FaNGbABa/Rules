@@ -14,6 +14,10 @@ DOMAIN-SUFFIX,ninemediaroom.com.au
 DOMAIN-SUFFIX,ninemsn.com.au
 DOMAIN-SUFFIX,static9.net.au
 DOMAIN-SUFFIX,yourtv.com.au
+## > Acer
+DOMAIN-SUFFIX,acer-group.com
+DOMAIN-SUFFIX,acer.com
+DOMAIN-SUFFIX,acer.com.cn
 ## > ACM
 DOMAIN-SUFFIX,acm.org
 ## > Adblockplus
@@ -376,6 +380,12 @@ DOMAIN-SUFFIX,canonproprinters.com
 DOMAIN-SUFFIX,change.org
 ## > Chinapower
 DOMAIN-SUFFIX,chinapower.csis.org
+## > Cisco
+DOMAIN-SUFFIX,cisco.com
+DOMAIN-SUFFIX,mediafiles-cisco.com
+DOMAIN-SUFFIX,static-cisco.com
+DOMAIN-SUFFIX,cisco.evergage.com
+DOMAIN-SUFFIX,ciscolivehls-i.akamaihd.net
 ## > Clarivate
 DOMAIN-SUFFIX,newisiknowledge.com
 DOMAIN-SUFFIX,isiknowledge.com
@@ -543,6 +553,10 @@ DOMAIN-SUFFIX,ebay.com.ar
 DOMAIN-SUFFIX,ebay.com.ec
 DOMAIN-SUFFIX,ebay.com.mt
 DOMAIN-SUFFIX,ebay.com.ph
+## > Emojipedia
+DOMAIN-SUFFIX,emojipedia.org
+DOMAIN-SUFFIX,worldemojiawards.com
+DOMAIN-SUFFIX,worldemojiday.com
 ## > Entermediadb
 DOMAIN-SUFFIX,entermediadb.net
 DOMAIN-SUFFIX,entermediadb.org
@@ -632,6 +646,14 @@ DOMAIN-SUFFIX,fortawesome.com
 DOMAIN-SUFFIX,ftchinese.com
 ## > Getcomposer
 DOMAIN-SUFFIX,getcomposer.org
+## > Gigabyte
+DOMAIN-SUFFIX,aorus.com
+DOMAIN-SUFFIX,aoruszone.cn
+DOMAIN-SUFFIX,gigabyte.cn
+DOMAIN-SUFFIX,gigabyte.com
+DOMAIN-SUFFIX,gigabyte2.azureedge.net
+DOMAIN-SUFFIX,sa78gs.wpc.edgecastcdn.net
+DOMAIN-SUFFIX,sni1dcb6gl.wpc.edgecastcdn.net
 ## > Gitbook
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,gitbook.io
@@ -826,6 +848,16 @@ DOMAIN-SUFFIX,deepl.com
 ## > Linkedin
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,licdn.com
+## > Logitech
+DOMAIN-SUFFIX,logi.com
+DOMAIN-SUFFIX,logicool.co.jp
+DOMAIN-SUFFIX,logicoolg.com
+DOMAIN-SUFFIX,logitech.biz
+DOMAIN-SUFFIX,logitech.com
+DOMAIN-SUFFIX,logitech.fr
+DOMAIN-SUFFIX,logitechg.com
+DOMAIN-SUFFIX,logitechg.fr
+DOMAIN-SUFFIX,worldsfastestgamer.net
 ## > McDonalds
 DOMAIN-SUFFIX,4008-517-517.cn
 DOMAIN-SUFFIX,aboutmcdonalds.com
@@ -1034,6 +1066,9 @@ DOMAIN-SUFFIX,rarbgmirror.com
 DOMAIN-SUFFIX,rarbgunblock.com
 DOMAIN-SUFFIX,rarbg.unblocked.vc
 DOMAIN-SUFFIX,rarbg.bypassed.org
+## > Razer
+DOMAIN-SUFFIX,razer.com
+DOMAIN-SUFFIX,razerzone.com
 ## > Reddit
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redditstatic.com
@@ -1090,7 +1125,7 @@ DOMAIN-SUFFIX,slackb.com
 DOMAIN-SUFFIX,slackcertified.com
 DOMAIN-SUFFIX,slackdemo.com
 DOMAIN-SUFFIX,slackhq.com
-## Sling
+## > Sling
 DOMAIN-SUFFIX,dishworld.com
 DOMAIN-SUFFIX,slinginternational.com
 DOMAIN-SUFFIX,sling.com
@@ -1298,6 +1333,7 @@ IP-CIDR,202.160.128.0/22,no-resolve
 IP-CIDR,209.237.192.0/19,no-resolve
 ## > Uber
 DOMAIN-SUFFIX,uber.com
+DOMAIN-SUFFIX,ubereats.com
 ## > Ubi
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubisoft.com
@@ -1450,6 +1486,30 @@ DOMAIN-SUFFIX,visamiddleeast.com
 DOMAIN-SUFFIX,visasoutheasteurope.com
 ## > Vodafone
 DOMAIN-SUFFIX,vodafone.com
+## > Westerndigital
+DOMAIN-SUFFIX,g-technology.com
+DOMAIN-SUFFIX,sandisk.ae
+DOMAIN-SUFFIX,sandisk.it
+DOMAIN-SUFFIX,sandisk.cn
+DOMAIN-SUFFIX,sandisk.co.jp
+DOMAIN-SUFFIX,sandisk.co.kr
+DOMAIN-SUFFIX,sandisk.co.uk
+DOMAIN-SUFFIX,sandisk.com
+DOMAIN-SUFFIX,sandisk.com.au
+DOMAIN-SUFFIX,sandisk.com.br
+DOMAIN-SUFFIX,sandisk.com.tr
+DOMAIN-SUFFIX,sandisk.com.tw
+DOMAIN-SUFFIX,sandisk.de
+DOMAIN-SUFFIX,sandisk.es
+DOMAIN-SUFFIX,sandisk.fr
+DOMAIN-SUFFIX,sandisk.hk
+DOMAIN-SUFFIX,sandisk.id
+DOMAIN-SUFFIX,sandisk.in
+DOMAIN-SUFFIX,sandisk.nl
+DOMAIN-SUFFIX,sandisk.sg
+DOMAIN-SUFFIX,wd.com
+DOMAIN-SUFFIX,wdc.com
+DOMAIN-SUFFIX,westerndigital.com
 ## > Who
 DOMAIN-SUFFIX,who.int
 ## > Wikimedia

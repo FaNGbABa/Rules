@@ -1,3 +1,11 @@
+## >> DNSPod
+DOMAIN-SUFFIX,dns.pub
+DOMAIN-SUFFIX,dnsapi.cn
+DOMAIN-SUFFIX,dnspod.cn
+DOMAIN-SUFFIX,dnspod.com
+DOMAIN-SUFFIX,dnspod.com.cn
+DOMAIN-SUFFIX,dnspod.org
+DOMAIN-SUFFIX,doh.pub
 ## > 腾讯
 USER-AGENT,live4iphone*
 USER-AGENT,qqlive4iphone*

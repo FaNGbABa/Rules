@@ -1,0 +1,7 @@
+payload:
+  ## > Cisco
+  - DOMAIN-SUFFIX,cisco.com
+  - DOMAIN-SUFFIX,mediafiles-cisco.com
+  - DOMAIN-SUFFIX,static-cisco.com
+  - DOMAIN-SUFFIX,cisco.evergage.com
+  - DOMAIN-SUFFIX,ciscolivehls-i.akamaihd.net
