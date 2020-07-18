@@ -233,6 +233,8 @@ payload:
   - DOMAIN-SUFFIX,huluim.com
   - DOMAIN-SUFFIX,huluqa.com
   - DOMAIN-SUFFIX,hulustream.com
+  - DOMAIN-SUFFIX,cws-hulu.conviva.com
+  - DOMAIN-SUFFIX,assetshuluimcom-a.akamaihd.net
   ## > 华文电视
   - DOMAIN-SUFFIX,5itv.tv
   - DOMAIN-SUFFIX,ocnttv.com
