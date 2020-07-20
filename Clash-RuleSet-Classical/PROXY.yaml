@@ -452,9 +452,20 @@ payload:
   - DOMAIN-SUFFIX,disquscdn.com
   - DOMAIN-SUFFIX,disqusservice.com
   ## > DMM
+  - DOMAIN-SUFFIX,akabeesoft2.com
+  - DOMAIN-SUFFIX,akabeesoft3.com
+  - DOMAIN-SUFFIX,akatsukiworks.com
+  - DOMAIN-SUFFIX,alicesoft.com
+  - DOMAIN-SUFFIX,cosmiccute.com
+  - DOMAIN-SUFFIX,ddo.jp
+  - DOMAIN-SUFFIX,dmm-extension.com
   - DOMAIN-SUFFIX,dmm.co.jp
   - DOMAIN-SUFFIX,dmm.com
-  - DOMAIN-SUFFIX,dmm-extension.com
+  - DOMAIN-SUFFIX,dmm.hk
+  - DOMAIN-SUFFIX,hibiki-site.com
+  - DOMAIN-SUFFIX,minori.ph
+  - DOMAIN-SUFFIX,tenco.cc
+  - DOMAIN-SUFFIX,wheel-soft.com
   ## > Docker
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
