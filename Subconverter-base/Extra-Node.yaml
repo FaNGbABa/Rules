@@ -1,5 +1,5 @@
-mixed-port: 7890
-redir-port: 7892
+mixed-port: 8888
+redir-port: 8890
 allow-lan: true
 mode: rule
 ipv6: true
@@ -14,24 +14,24 @@ dns:
   default-nameserver:
     - 223.5.5.5
     - 8.8.8.8
-  enhanced-mode: fake-ip # redir-host #fake-ip
+  enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   fake-ip-filter:
     - '*.lan'
-    - 'msftconnecttest.com'
+    - msftconnecttest.com
     - '*.msftconnecttest.com'
-    - 'msftncsi.com'
+    - msftncsi.com
     - '*.msftncsi.com'
-    - 'localhost.ptlogin2.qq.com'
-    - 'localhost.sec.qq.com'
-    - '+.stun.*.*'
-    - '+.stun.*.*.*'
-    - '+.stun.*.*.*.*'
-    - 'lens.l.google.com'
-    - 'stun.l.google.com'
+    - localhost.ptlogin2.qq.com
+    - localhost.sec.qq.com
+    - +.stun.*.*
+    - +.stun.*.*.*
+    - +.stun.*.*.*.*
+    - lens.l.google.com
+    - stun.l.google.com
     - '*.n.n.srv.nintendo.net'
-    - '.apple.*'
-    - '+.foo.com'
+    - .apple.*
+    - +.foo.com
   nameserver:
     - 223.5.5.5
     - 119.29.29.29
@@ -50,8 +50,8 @@ dns:
     - https://doh.opendns.com/dns-query
     - https://doh.powerdns.org
   fallback-filter:
-    geoip: true # default
-    ipcidr: # ips in these subnets will be considered polluted
+    geoip: true
+    ipcidr:
       - 0.0.0.0/32
       - 240.0.0.0/4
 proxies:
