@@ -100,7 +100,6 @@ payload:
   - DOMAIN-SUFFIX,zjcdn.com
   - DOMAIN-SUFFIX,zjgslb.com
   - DOMAIN-SUFFIX,byted.org
-  - DOMAIN-SUFFIX,ipstatp.com
   ## >> 抖音
   - DOMAIN-SUFFIX,amemv.cn
   - DOMAIN-SUFFIX,amemv.com

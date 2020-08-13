@@ -1,24 +1,29 @@
 payload:
   ## > Fox Now & Fox Plus
+  - DOMAIN,cdn-fox-networks-group-green.akamaized.net
+  - DOMAIN,d3cv4a9a9wh0bt.cloudfront.net
+  - DOMAIN,dashasiafox.akamaized.net
+  - DOMAIN,foxsports01-i.akamaihd.net
+  - DOMAIN,foxsports02-i.akamaihd.net
+  - DOMAIN,foxsports03-i.akamaihd.net
+  - DOMAIN,staticasiafox.akamaized.net
+  - DOMAIN-SUFFIX,ask.fxnetworks.com
   - DOMAIN-SUFFIX,fox.com
-  - DOMAIN-SUFFIX,foxdcg.com
-  - DOMAIN-SUFFIX,theplatform.com
-  - DOMAIN-SUFFIX,uplynk.com
-  - DOMAIN-SUFFIX,foxplus.com
-  - DOMAIN-SUFFIX,foxnow.com
-  - DOMAIN-SUFFIX,foxplay.com
-  - DOMAIN-SUFFIX,now.com
+  - DOMAIN-SUFFIX,foxbroadcasting.zendesk.com
+  - DOMAIN-SUFFIX,foxbusiness.com
   - DOMAIN-SUFFIX,foxcorporation.com
+  - DOMAIN-SUFFIX,foxdcg.com
   - DOMAIN-SUFFIX,foxdoua.com
   - DOMAIN-SUFFIX,foxfdm.com
   - DOMAIN-SUFFIX,foxinc.com
   - DOMAIN-SUFFIX,foxneo.com
   - DOMAIN-SUFFIX,foxneodigital.com
-  - DOMAIN-SUFFIX,fxnetwork.com
-  - DOMAIN-SUFFIX,ask.fxnetworks.com
-  - DOMAIN-SUFFIX,foxbroadcasting.zendesk.com
   - DOMAIN-SUFFIX,foxnews.com
-  - DOMAIN-SUFFIX,foxbusiness.com
   - DOMAIN-SUFFIX,foxnewsplayer-a.akamaihd.net
-  - DOMAIN-SUFFIX,dashasiafox.akamaized.net
-  - DOMAIN-SUFFIX,staticasiafox.akamaized.net
+  - DOMAIN-SUFFIX,foxnow.com
+  - DOMAIN-SUFFIX,foxplay.com
+  - DOMAIN-SUFFIX,foxplus.com
+  - DOMAIN-SUFFIX,fxnetwork.com
+  - DOMAIN-SUFFIX,now.com
+  - DOMAIN-SUFFIX,theplatform.com
+  - DOMAIN-SUFFIX,uplynk.com

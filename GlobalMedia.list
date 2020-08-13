@@ -157,28 +157,33 @@ DOMAIN-SUFFIX,spyjinx.com
 DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,unrealtournament.com
 ## > Fox Now & Fox Plus
+DOMAIN,cdn-fox-networks-group-green.akamaized.net
+DOMAIN,d3cv4a9a9wh0bt.cloudfront.net
+DOMAIN,dashasiafox.akamaized.net
+DOMAIN,foxsports01-i.akamaihd.net
+DOMAIN,foxsports02-i.akamaihd.net
+DOMAIN,foxsports03-i.akamaihd.net
+DOMAIN,staticasiafox.akamaized.net
+DOMAIN-SUFFIX,ask.fxnetworks.com
 DOMAIN-SUFFIX,fox.com
-DOMAIN-SUFFIX,foxdcg.com
-DOMAIN-SUFFIX,theplatform.com
-DOMAIN-SUFFIX,uplynk.com
-DOMAIN-SUFFIX,foxplus.com
-DOMAIN-SUFFIX,foxnow.com
-DOMAIN-SUFFIX,foxplay.com
-DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,foxbroadcasting.zendesk.com
+DOMAIN-SUFFIX,foxbusiness.com
 DOMAIN-SUFFIX,foxcorporation.com
+DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,foxdoua.com
 DOMAIN-SUFFIX,foxfdm.com
 DOMAIN-SUFFIX,foxinc.com
 DOMAIN-SUFFIX,foxneo.com
 DOMAIN-SUFFIX,foxneodigital.com
-DOMAIN-SUFFIX,fxnetwork.com
-DOMAIN-SUFFIX,ask.fxnetworks.com
-DOMAIN-SUFFIX,foxbroadcasting.zendesk.com
 DOMAIN-SUFFIX,foxnews.com
-DOMAIN-SUFFIX,foxbusiness.com
 DOMAIN-SUFFIX,foxnewsplayer-a.akamaihd.net
-DOMAIN,dashasiafox.akamaized.net
-DOMAIN,staticasiafox.akamaized.net
+DOMAIN-SUFFIX,foxnow.com
+DOMAIN-SUFFIX,foxplay.com
+DOMAIN-SUFFIX,foxplus.com
+DOMAIN-SUFFIX,fxnetwork.com
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,theplatform.com
+DOMAIN-SUFFIX,uplynk.com
 ## > HBO NOW & HBO GO HKG
 DOMAIN-SUFFIX,hbo.com
 DOMAIN-SUFFIX,hbogo.com
@@ -254,6 +259,7 @@ DOMAIN-KEYWORD,japonx
 DOMAIN-KEYWORD,japronx
 ## > JOOX
 DOMAIN-SUFFIX,joox.com
+DOMAIN-KEYWORD,jooxweb-api
 ## > Kakao
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kakao.co.kr
@@ -478,16 +484,17 @@ DOMAIN-SUFFIX,tidalhifi.com
 ## > TikTok
 USER-AGENT,TikTok*
 DOMAIN-KEYWORD,-tiktokcdn-com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,sgpstatp.com
-DOMAIN-SUFFIX,ibyteimg.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokv.com
+DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,sgpstatp.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
 ## > Vidol TV
 DOMAIN-SUFFIX,vidol.tv
 ## > Viki
