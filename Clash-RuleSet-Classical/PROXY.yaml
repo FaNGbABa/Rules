@@ -653,6 +653,10 @@ payload:
   - DOMAIN-SUFFIX,fastly.net
   ## > Faststone
   - DOMAIN-SUFFIX,faststone.org
+  ## > 飞流直播
+  - DOMAIN-SUFFIX,neulion.com
+  - DOMAIN-SUFFIX,icntv.xyz
+  - DOMAIN-SUFFIX,flzbcdn.xyz
   ## > Fontawesome
   - DOMAIN-SUFFIX,fontawesome.com
   - DOMAIN-SUFFIX,fortawesome.com
@@ -1547,6 +1551,7 @@ payload:
   - DOMAIN-SUFFIX,wmcloud.org
   - DOMAIN-SUFFIX,wmflabs.org
   - DOMAIN-SUFFIX,wmfusercontent.org
+  - DOMAIN-SUFFIX,wikileaks.org
   ## > Windy
   - DOMAIN-SUFFIX,windy.com
   ## > Wordpress
@@ -7189,7 +7194,6 @@ payload:
   - DOMAIN-SUFFIX,wikileaks.de
   - DOMAIN-SUFFIX,wikileaks.eu
   - DOMAIN-SUFFIX,wikileaks.lu
-  - DOMAIN-SUFFIX,wikileaks.org
   - DOMAIN-SUFFIX,wikileaks.pl
   - DOMAIN-SUFFIX,wikilivres.info
   - DOMAIN-SUFFIX,wikimapia.org
