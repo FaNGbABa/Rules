@@ -517,6 +517,7 @@ DOMAIN-SUFFIX,lxbjs.baidu.com
 DOMAIN-SUFFIX,mipengine.baidu.com
 DOMAIN-SUFFIX,nadvideo.baidu.com
 DOMAIN-SUFFIX,nj.t.bcsp2p.baidu.com
+DOMAIN-SUFFIX,feed.baidu.com
 DOMAIN-SUFFIX,paimgcdn-feed.baidu.com
 DOMAIN-SUFFIX,qapm.baidu.com
 DOMAIN-SUFFIX,qw.baidu.com
@@ -664,6 +665,10 @@ DOMAIN-SUFFIX,as.baidu.com
 DOMAIN-SUFFIX,boscdn.bpc.baidu.com
 DOMAIN-SUFFIX,imageplus.baidu.com
 DOMAIN-SUFFIX,itsdata.map.baidu.com
+DOMAIN-SUFFIX,ps.map.baidu.com
+DOMAIN-SUFFIX,sv.map.baidu.com
+DOMAIN-SUFFIX,offnavi.map.baidu.com
+DOMAIN-SUFFIX,newvector.map.baidu.com
 DOMAIN-SUFFIX,log.waimai.baidu.com
 DOMAIN-SUFFIX,static.su.baidu.com
 DOMAIN-SUFFIX,tuisong.baidu.com
@@ -836,7 +841,6 @@ DOMAIN-SUFFIX,jfm4.pop.baofeng.net
 DOMAIN-SUFFIX,config.baofeng.net
 DOMAIN-SUFFIX,clicklog.moviebox.baofeng.net
 DOMAIN-SUFFIX,houyi.baofeng.net
-DOMAIN-SUFFIX,xs.houyi.baofeng.net
 ## > 字节跳动-ads
 DOMAIN-SUFFIX,applog.musical.ly
 DOMAIN-SUFFIX,log2.musical.ly
@@ -1143,6 +1147,8 @@ DOMAIN-SUFFIX,zucks.net.zimg.jp
 DOMAIN-SUFFIX,dotcounter.douyutv.com
 DOMAIN-SUFFIX,msg.douyu.com
 DOMAIN-SUFFIX,wan.douyu.com
+DOMAIN-SUFFIX,cs-op.douyucdn.cn
+DOMAIN-SUFFIX,rtbapi.douyucdn.cn
 ## > 豆果美食-ads
 DOMAIN-SUFFIX,abc.douguo.com
 DOMAIN-SUFFIX,ggb.douguo.com
@@ -1515,6 +1521,14 @@ DOMAIN-SUFFIX,qosp.msg.71.am
 DOMAIN-SUFFIX,msg.71.am
 DOMAIN-SUFFIX,static.g.ppstream.com
 DOMAIN-SUFFIX,stat.ppstream.com
+## >> 银河奇异果-ads
+DOMAIN-SUFFIX,mixer.cupid.ptqy.gitv.tv
+DOMAIN-SUFFIX,msga.ptqy.gitv.tv
+DOMAIN-SUFFIX,msg.ptqy.gitv.tv
+DOMAIN-SUFFIX,nl.rcd.ptqy.gitv.tv
+DOMAIN-SUFFIX,pb.bi.gitv.tv
+DOMAIN-SUFFIX,store.ptqy.gitv.tv
+DOMAIN-SUFFIX,t7z.cupid.ptqy.gitv.tv
 ## > 爱奇艺-ads CIDR
 IP-CIDR,101.227.97.240/32,no-resolve
 IP-CIDR,101.227.200.11/32,no-resolve
@@ -1633,7 +1647,10 @@ DOMAIN-SUFFIX,g.kuwo.cn
 DOMAIN-SUFFIX,g.koowo.com
 DOMAIN-SUFFIX,apk.shouji.koowo.com
 DOMAIN-SUFFIX,kuaikaiapp.com
-## iZooto-ads
+## > 酷云互动
+DOMAIN-SUFFIX,config.kuyun.com
+DOMAIN-SUFFIX,logonext.tv.kuyun.com
+## > iZooto-ads
 DOMAIN-SUFFIX,evt.izooto.com
 DOMAIN-SUFFIX,events.izooto.com
 DOMAIN-SUFFIX,aevents.izooto.com
@@ -2837,7 +2854,6 @@ DOMAIN-SUFFIX,resolver.gslb.mi-idc.com
 DOMAIN-SUFFIX,ssl-cdn.static.browser.mi-img.com
 DOMAIN-SUFFIX,mlog.search.xiaomi.net
 DOMAIN-SUFFIX,resolver.msg.xiaomi.net
-DOMAIN-SUFFIX,hdfdm.com
 DOMAIN-SUFFIX,miui.hdfdm.com
 DOMAIN-SUFFIX,tf.hdfdm.com
 DOMAIN-SUFFIX,miui.hftaili.com
@@ -3267,15 +3283,16 @@ DOMAIN-SUFFIX,t.d.yoyi.tv
 DOMAIN-SUFFIX,cvnad.com
 DOMAIN-SUFFIX,iyoowi.com
 ## > 知乎-ads
-DOMAIN-SUFFIX,zhihu-analytics.zhihu.com
-DOMAIN-SUFFIX,sugar.zhihu.com
-DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
-DOMAIN-SUFFIX,zhstatic.zhihu.com
 DOMAIN-SUFFIX,analytics.zhihu.com
-DOMAIN-SUFFIX,lc-push.zhihu.com
 DOMAIN-SUFFIX,appcloud2.in.zhihu.com
 DOMAIN-SUFFIX,appcloud2.zhihu.com
 DOMAIN-SUFFIX,event.zhihu.com
+DOMAIN-SUFFIX,lc-push.zhihu.com
+DOMAIN-SUFFIX,mqtt.zhihu.com
+DOMAIN-SUFFIX,sugar.zhihu.com
+DOMAIN-SUFFIX,zhstatic.zhihu.com
+DOMAIN-SUFFIX,zhihu-analytics.zhihu.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 ## > 中关村-ads
 DOMAIN-SUFFIX,apppv.zol.com.cn
 DOMAIN-SUFFIX,pvnapp.zol.com.cn
@@ -5085,7 +5102,7 @@ DOMAIN-SUFFIX,cnetwidget.creativemark.co.uk
 DOMAIN-SUFFIX,cnfanglei.com
 DOMAIN-SUFFIX,cnhbxx.com
 DOMAIN-SUFFIX,cnkok.com
-DOMAIN-SUFFIX,cnnic.cn
+DOMAIN-SUFFIX,ss.cnnic.cn
 DOMAIN-SUFFIX,cnnic.net
 DOMAIN-SUFFIX,cnnic.net.cn
 DOMAIN-SUFFIX,cnpinzhuo.com
@@ -24687,8 +24704,6 @@ DOMAIN-SUFFIX,doukekan.cn
 DOMAIN-SUFFIX,doumaibiji.cn
 DOMAIN-SUFFIX,doupuer.com
 DOMAIN-SUFFIX,tt.douyaobuy.com
-DOMAIN-SUFFIX,cs-op.douyucdn.cn
-DOMAIN-SUFFIX,rtbapi.douyucdn.cn
 DOMAIN-SUFFIX,dowages.com
 DOMAIN-SUFFIX,down1oads.com
 DOMAIN-SUFFIX,beta.down2crazy.com
@@ -29437,7 +29452,6 @@ DOMAIN-SUFFIX,kuqi.com
 DOMAIN-SUFFIX,kurlipush.com
 DOMAIN-SUFFIX,kutjilsi.com
 DOMAIN-SUFFIX,kuwlmrggxrznky.com
-DOMAIN-SUFFIX,kuyun.com
 DOMAIN-SUFFIX,kvdguzclhatdul.com
 DOMAIN-SUFFIX,kvflzevaaco.com
 DOMAIN-SUFFIX,kvhnsbkhxhlgkv.com

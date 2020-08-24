@@ -498,6 +498,7 @@ DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,play-cdn.itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,swift.org
 DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
+PROCESS-NAME,com.apple.geod
 ## >> Unity
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com

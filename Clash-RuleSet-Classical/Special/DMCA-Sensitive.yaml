@@ -1,7 +1,22 @@
 payload:
   ## 🚦 DMCA敏感
   ## > DMCA敏感
-  # > qbittorrent
+  ## > Proxy plugin
+  - PROCESS-NAME,v2ray
+  - PROCESS-NAME,ss-local
+  ## > UUBooster
+  - PROCESS-NAME,UUBooster
+  ## > Download
+  - PROCESS-NAME,aria2c
+  - PROCESS-NAME,fdm
+  - PROCESS-NAME,Folx
+  - PROCESS-NAME,NetTransport
+  - PROCESS-NAME,Thunder
+  - PROCESS-NAME,Transmission
+  - PROCESS-NAME,uTorrent
+  - PROCESS-NAME,WebTorrent
+  - PROCESS-NAME,WebTorrent Helper
+  ## > qbittorrent
   - DOMAIN-SUFFIX,qbittorrent.org
   ## > 迅雷
   - DOMAIN-SUFFIX,8uri.cn
