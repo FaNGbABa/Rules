@@ -2493,6 +2493,7 @@ payload:
   - DOMAIN-SUFFIX,teamviewer.com
   ## > 战旗TV
   - DOMAIN-SUFFIX,zhanqi.tv
+  - DOMAIN-SUFFIX,zhanqu.tv
   ## > Others-CN
   - DOMAIN-SUFFIX,002xs.com
   - DOMAIN-SUFFIX,00kxs.com
